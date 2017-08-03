@@ -1,0 +1,228 @@
+X:\Workspace\ODataMovies\ODataMovies\obj\Debug\ODataMovies.csprojResolveAssemblyReference.cache
+X:\Workspace\ODataMovies\ODataMovies\bin\ApplicationInsights.config
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\csc.exe
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\System.Collections.Immutable.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\System.Reflection.Metadata.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\vbc.exe
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\VBCSCompiler.exe
+X:\Workspace\ODataMovies\ODataMovies\bin\roslyn\VBCSCompiler.exe.config
+X:\Workspace\ODataMovies\ODataMovies\bin\ODataMovies.dll.config
+X:\Workspace\ODataMovies\ODataMovies\bin\ODataMovies.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ODataMovies.pdb
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.Agent.Intercept.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.DependencyCollector.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.PerfCounterCollector.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.Web.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.WindowsServer.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.ApplicationInsights.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.OData.Core.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.OData.Edm.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.Spatial.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Newtonsoft.Json.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Net.Http.Formatting.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Web.Http.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Web.Http.WebHost.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Web.OData.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.DependencyCollector.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.Web.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.AI.WindowsServer.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.ApplicationInsights.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.OData.Core.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.OData.Edm.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Microsoft.Spatial.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Web.OData.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\Newtonsoft.Json.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Net.Http.Formatting.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Web.Http.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\System.Web.Http.WebHost.xml
+X:\Workspace\ODataMovies\ODataMovies\bin\de\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\es\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\fr\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\it\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ja\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ko\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ru\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\de\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\es\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\fr\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\it\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ja\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ko\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ru\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\de\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\es\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\fr\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\it\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ja\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ko\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\ru\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.Spatial.resources.dll
+X:\Workspace\ODataMovies\ODataMovies\obj\Debug\ODataMovies.dll
+X:\Workspace\ODataMovies\ODataMovies\obj\Debug\ODataMovies.pdb
+D:\Temp\ODataMovies\ODataMovies\obj\Debug\ODataMovies.dll
+D:\Temp\ODataMovies\ODataMovies\obj\Debug\ODataMovies.pdb
+D:\Temp\ODataMovies\ODataMovies\bin\ApplicationInsights.config
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\csc.exe
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\System.Collections.Immutable.dll
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\System.Reflection.Metadata.dll
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\vbc.exe
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\VBCSCompiler.exe
+D:\Temp\ODataMovies\ODataMovies\bin\roslyn\VBCSCompiler.exe.config
+D:\Temp\ODataMovies\ODataMovies\bin\ODataMovies.dll.config
+D:\Temp\ODataMovies\ODataMovies\bin\ODataMovies.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ODataMovies.pdb
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.DependencyCollector.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.Web.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.WindowsServer.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.ApplicationInsights.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.OData.Core.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.OData.Edm.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.Spatial.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Newtonsoft.Json.dll
+D:\Temp\ODataMovies\ODataMovies\bin\System.Net.Http.Formatting.dll
+D:\Temp\ODataMovies\ODataMovies\bin\System.Web.Http.dll
+D:\Temp\ODataMovies\ODataMovies\bin\System.Web.Http.WebHost.dll
+D:\Temp\ODataMovies\ODataMovies\bin\System.Web.OData.dll
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.DependencyCollector.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.Web.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.AI.WindowsServer.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.ApplicationInsights.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.OData.Core.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.OData.Edm.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Microsoft.Spatial.xml
+D:\Temp\ODataMovies\ODataMovies\bin\System.Web.OData.xml
+D:\Temp\ODataMovies\ODataMovies\bin\Newtonsoft.Json.xml
+D:\Temp\ODataMovies\ODataMovies\bin\System.Net.Http.Formatting.xml
+D:\Temp\ODataMovies\ODataMovies\bin\System.Web.Http.xml
+D:\Temp\ODataMovies\ODataMovies\bin\System.Web.Http.WebHost.xml
+D:\Temp\ODataMovies\ODataMovies\bin\de\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\es\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\it\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\de\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\es\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\fr\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\it\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ja\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ko\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\ru\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Temp\ODataMovies\ODataMovies\obj\Debug\ODataMovies.csprojResolveAssemblyReference.cache
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ApplicationInsights.config
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\csc.exe
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\System.Collections.Immutable.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\System.Reflection.Metadata.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\vbc.exe
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\VBCSCompiler.exe
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\roslyn\VBCSCompiler.exe.config
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ODataMovies.dll.config
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ODataMovies.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ODataMovies.pdb
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.DependencyCollector.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.Web.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.WindowsServer.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.ApplicationInsights.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.OData.Core.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.OData.Edm.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.Spatial.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Newtonsoft.Json.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Net.Http.Formatting.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Web.Http.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Web.Http.WebHost.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Web.OData.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.DependencyCollector.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.Web.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.AI.WindowsServer.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.ApplicationInsights.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.OData.Core.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.OData.Edm.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Microsoft.Spatial.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Web.OData.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\Newtonsoft.Json.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Net.Http.Formatting.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Web.Http.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\System.Web.Http.WebHost.xml
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\de\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\es\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\fr\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\it\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ja\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ko\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ru\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\de\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\es\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\fr\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\it\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ja\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ko\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ru\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\de\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\es\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\fr\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\it\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ja\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ko\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\ru\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\zh-Hans\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\bin\zh-Hant\Microsoft.Spatial.resources.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\obj\Debug\ODataMovies.csprojResolveAssemblyReference.cache
+E:\Work Area\webapi\ODataMovies\ODataMovies\obj\Debug\ODataMovies.dll
+E:\Work Area\webapi\ODataMovies\ODataMovies\obj\Debug\ODataMovies.pdb
